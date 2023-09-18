@@ -8,7 +8,7 @@ Perform crud operation for the blog app
 
  Note:
  1. Security Is not provided to API.
- 2. for API documentation please visit: bellow link
+ 2. for API documentation please visit link
     <a href="http://localhost:8080/swagger-ui/index.html" target="_blank">Swagger</a>
     
  
